@@ -1,0 +1,6 @@
+{
+  "name": "pokewait",
+  "version": "0.4.1",
+  "description": "All 1025 Pokémon, each in its own generation's sprite art from PokeAPI, walk across the top of the band above the prompt while Claude is working",
+  "types": "./types/index.d.ts"
+}

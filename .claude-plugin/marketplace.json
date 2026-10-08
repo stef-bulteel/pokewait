@@ -1,0 +1,5 @@
+{
+  "name": "pokewait",
+  "owner": { "name": "Stef Bulteel" },
+  "plugins": [{ "name": "pokewait", "source": "./" }]
+}
